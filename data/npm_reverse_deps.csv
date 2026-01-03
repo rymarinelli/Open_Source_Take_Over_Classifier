@@ -1,0 +1,7 @@
+package,reverse_dependency_count
+event-stream,100000
+ua-parser-js,200000
+coa,50000
+rc,150000
+left-pad,300000
+is-number,250000

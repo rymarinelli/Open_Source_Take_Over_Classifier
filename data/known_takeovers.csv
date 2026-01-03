@@ -1,0 +1,5 @@
+package,date,incident_summary,source_url
+"event-stream",2018-11-26,"Maintainer handed control to a new owner; a malicious dependency (flatmap-stream) was injected to steal credentials from downstream builds.","https://blog.npmjs.org/post/180565383195/details-about-the-event-stream-incident"
+"ua-parser-js",2021-10-22,"Compromised maintainer account published malware-laced versions that installed coin miners and trojans.","https://github.com/advisories/GHSA-pj2m-vm78-9mhm"
+"coa",2021-10-22,"Maintainer account compromise led to malicious releases with credential-stealing payloads.","https://snyk.io/blog/malicious-code-found-in-npm-package-ua-parser-js/"
+"rc",2021-10-22,"Maintainer account compromise led to malicious releases with credential-stealing payloads.","https://snyk.io/blog/malicious-code-found-in-npm-package-ua-parser-js/"

@@ -1,0 +1,6 @@
+{"ecosystem": "npm", "package_id": "npm:left-pad", "reverse_deps": 300000}
+{"ecosystem": "npm", "package_id": "npm:is-number", "reverse_deps": 250000}
+{"ecosystem": "npm", "package_id": "npm:ua-parser-js", "reverse_deps": 200000}
+{"ecosystem": "npm", "package_id": "npm:rc", "reverse_deps": 150000}
+{"ecosystem": "npm", "package_id": "npm:event-stream", "reverse_deps": 100000}
+{"ecosystem": "npm", "package_id": "npm:coa", "reverse_deps": 50000}
