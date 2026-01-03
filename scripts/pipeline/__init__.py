@@ -1,0 +1,1 @@
+"""Open-source takeover detection pipeline."""
